@@ -20,25 +20,29 @@
 
 </div>
 
+------
+Data Analyst · Python Developer · Aspiring Data Scientist
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;GATE+DA+2026+Qualified;Always+learning%2C+always+building"/> <p> <a href="https://github.com/mdrameez143"><img src="https://komarev.com/ghpvc/?username=mdrameez143&style=for-the-badge&color=0e75b6"/></a> <a href="https://github.com/mdrameez143?tab=followers"><img src="https://img.shields.io/github/followers/mdrameez143?style=for-the-badge&logo=github"/></a> <a href="https://github.com/mdrameez143?tab=repositories"><img src="https://img.shields.io/github/stars/mdrameez143?affiliations=OWNER&style=for-the-badge"/></a> </p> <p> <a href="https://mdrameez143.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser"></a> <a href="https://www.linkedin.com/in/mohammad-rameez-258543324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a> <a href="mailto:mdrameez7245@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> </p> </div>
+------
+
 ---
 
 # 💫 About Me
 
-- 🎓 B.Tech in Computer Science Engineering
-- 🏫 Kakatiya University
-- 💼 Python Full-Stack Trainee @ QSpiders
-- 📊 Data Analytics Trainee
-- 🤖 Data Science Trainee
-- 🏆 GATE DA 2026 Qualified
-- 📍 Hyderabad, India
+- I'm a Computer Science graduate from Kakatiya University, currently training as a Python Full-Stack Developer at QSpiders while building hands-on expertise in data analytics and data science. I qualified GATE DA 2026, and I enjoy the full pipeline — pulling messy data, cleaning it, modeling it, and turning it into dashboards people actually use.
+
+🎓 B.Tech, Computer Science Engineering — Kakatiya University
+💼 Python Full-Stack Trainee @ QSpiders
+📊 Currently deepening skills in Data Analytics & Machine Learning
+🏆 GATE DA 2026 Qualified
+📍 Hyderabad, India
 
 ## 🚀 Current Focus
 
-- Data Analytics
-- Machine Learning
-- Python Development
-- SQL & Power BI
-- Full Stack Development
+🔍 Deepening SQL and Python for data wrangling and analysis
+📊 Building end-to-end Power BI / Tableau dashboards
+🤖 Learning core Machine Learning algorithms and workflows
+🌐 Strengthening full-stack and data analysis skills
 
 ---
 
@@ -63,6 +67,23 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
+-----
+### Languages
+
+<p> <img src="https://skillicons.dev/icons?i=python,c,php,javascript,html,css"/> </p>
+
+### Databases
+
+<p> <img src="https://skillicons.dev/icons?i=mysql"/> <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle"/> </p>
+
+### Analytics & BI
+
+<p> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/> <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel"/> </p>
+
+### Tools
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
+-----
 ---
 
 # 🚀 Featured Projects
@@ -81,9 +102,7 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=mdrameez143&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
+<p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=mdrameez143&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mdrameez143&theme=tokyonight&hide_border=true&layout=compact"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrameez143&theme=tokyo-night&hide_border=true"/> </p>
 
 # 📈 GitHub Summary
 
