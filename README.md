@@ -67,16 +67,21 @@
 
 # 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 📚 Next Generation Learning Portal | PHP, MySQL, JavaScript |
-| 🔐 Secure Login & Profile Management | Python, SQL, Cryptography |
-| 📊 Sales Dashboard | Power BI, DAX |
+📚 Next Generation Learning Portal
+
+🔐 Secure Login & Profile Management
+
+📊 Sales Dashboard using Power BI
 
 ---
 
 # 📊 GitHub Analytics
 
+---
+![](https://github-readme-stats.shion.dev/api?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mdrameez143&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -104,34 +109,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrameez143&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action to generate this animation.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mdrameez143
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-```
-
-After enabling:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mdrameez143/mdrameez143/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 # 🏅 Achievements
@@ -146,7 +123,7 @@ After enabling:
 # ☕ Fun Facts
 
 - 📈 I enjoy building dashboards.
-- 🤖 Passionate about Machine Learning.
+- 🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science.
 - 🐍 Python is my favorite language.
 - 💡 I love solving real-world problems using data.
 
@@ -155,6 +132,7 @@ After enabling:
 # 💭 Quote
 
 > **"Transforming data into actionable insights and building impactful solutions through technology."**
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
 
 <div align="center">
 
