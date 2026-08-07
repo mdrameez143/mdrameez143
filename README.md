@@ -1,181 +1,166 @@
-<h1 align="center">Hi 👋, I'm Mohammad Rameez</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Data Science Trainee • Python Developer • Full-Stack Learner
-</h3>
+# 👋 Hi, I'm Mohammad Rameez
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Science+Trainee;Python+Developer;Machine+Learning+Enthusiast;Power+BI+%7C+SQL+%7C+Python;GATE+DA+2026+Qualified" />
+### 💻 Data Analyst • 📊 Data Science Trainee • 🐍 Python Developer • 🚀 Full-Stack Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Machine+Learning;Python+Developer;Power+BI+%7C+SQL+%7C+Tableau;Always+Learning+New+Technologies;GATE+DA+2026+Qualified"/>
+
+<p>
+<a href="https://github.com/mdrameez143"><img src="https://komarev.com/ghpvc/?username=mdrameez143&style=for-the-badge&color=0e75b6"/></a>
+<a href="https://github.com/mdrameez143"><img src="https://img.shields.io/github/followers/mdrameez143?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/mdrameez143"><img src="https://img.shields.io/github/stars/mdrameez143?affiliations=OWNER&style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/mdrameez143">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-rameez-258543324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mdrameez7245@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://mdrameez143.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
+<p>
+<a href="https://mdrameez143.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser"></a>
+<a href="https://www.linkedin.com/in/mohammad-rameez-258543324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:mdrameez7245@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mdrameez143&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/mdrameez143?label=Followers&style=flat"/>
-<img src="https://img.shields.io/github/stars/mdrameez143?affiliations=OWNER&style=flat"/>
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech in Computer Science Engineering
+- 🎓 B.Tech in Computer Science Engineering
+- 🏫 Kakatiya University
+- 💼 Python Full-Stack Trainee @ QSpiders
+- 📊 Data Analytics Trainee
+- 🤖 Data Science Trainee
+- 🏆 GATE DA 2026 Qualified
+- 📍 Hyderabad, India
 
-🏫 Kakatiya University
+## 🚀 Current Focus
 
-📊 Python Full-Stack Trainee @ QSpiders
-
-📈 Data Analytics Trainee
-
-🤖 Data Science Trainee
-
-🏆 GATE DA 2026 Qualified
-
-🌱 Currently learning
-
-- Advanced Python
 - Data Analytics
 - Machine Learning
-- Power BI
-- SQL
+- Python Development
+- SQL & Power BI
 - Full Stack Development
 
-💬 Ask me about
-
-- Python
-- SQL
-- Power BI
-- Data Analytics
-- Machine Learning
-
-🌐 Portfolio
-
-🔗 https://mdrameez143.github.io/portfolio/
-
-📫 Email
-
-**mdrameez7245@gmail.com**
-
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mohammad-rameez-258543324/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://github.com/mdrameez143">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="mailto:mdrameez7245@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,php,javascript,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,c,php,javascript,html,css"/>
 </p>
 
-### Data Science
-
+### Databases
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle"/>
 </p>
 
-### Analytics
-
+### Analytics & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-📚 Next Generation Learning Portal
-
-🔐 Secure Login & Profile Management
-
-📊 Sales Dashboard using Power BI
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrameez143&theme=tokyonight"/>
-</p>
+| Project | Tech |
+|---------|------|
+| 📚 Next Generation Learning Portal | PHP, MySQL, JavaScript |
+| 🔐 Secure Login & Profile Management | Python, SQL, Cryptography |
+| 📊 Sales Dashboard | Power BI, DAX |
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdrameez143&theme=algolia&row=2&column=4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=mdrameez143&theme=tokyonight&hide_border=true"/>
+</p>
+
+# 📈 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrameez143&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrameez143&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrameez143&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrameez143&theme=tokyonight"/>
+</p>
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrameez143&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrameez143&theme=tokyo-night&hide_border=true"/>
+</p>
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action to generate this animation.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mdrameez143
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+```
+
+After enabling:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdrameez143/mdrameez143/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# ✨ Quote
+# 🏅 Achievements
 
-<p align="center">
-
-> **"Transforming data into insights and ideas into impactful solutions."**
-
-</p>
+- 🏆 GATE DA 2026 Qualified
+- 📊 Data Analytics Trainee
+- 🤖 Data Science Trainee
+- 💼 Python Full-Stack Trainee 
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider following me and starring my repositories!
-</p>
+# ☕ Fun Facts
+
+- 📈 I enjoy building dashboards.
+- 🤖 Passionate about Machine Learning.
+- 🐍 Python is my favorite language.
+- 💡 I love solving real-world problems using data.
+
+---
+
+# 💭 Quote
+
+> **"Transforming data into actionable insights and building impactful solutions through technology."**
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer"/>
+
+</div>
+
