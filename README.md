@@ -77,24 +77,12 @@
 
 # 📊 GitHub Analytics
 
----
-![](https://github-readme-stats.shion.dev/api?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mdrameez143&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
----
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-<img src="https://github-readme-stats.vercel.app/api?username=mdrameez143&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-
 <p align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=mdrameez143&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mdrameez143&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
 # 📈 GitHub Summary
