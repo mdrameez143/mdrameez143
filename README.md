@@ -16,3 +16,143 @@ I'm currently working on Qspiders <br>I'm a Data science and Data Analyst Traine
 [![](https://komarev.com/ghpvc/?username=mdrameez143&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<h1 align="center">Hi 👋, I'm Mohammad Rameez</h1>
+<h3 align="center">Data Analyst | Data Science Trainee | Python Developer | GATE-DA 2026 Qualified</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdrameez143&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+# 💫 About Me
+
+🎓 B.Tech in Computer Science Engineering from **Kakatiya University** (CGPA: **8.36/10**)
+
+📊 Currently working as a **Python Full-Stack Trainee at QSpiders**.
+
+📈 Completed **Data Analytics Training** at **PILABS Commons Research Foundation**.
+
+🤖 Completed **Data Science Training** at **United Way of Hyderabad (Wells Fargo Support)**.
+
+💡 Passionate about:
+- Data Analytics
+- Data Science
+- Machine Learning
+- Business Intelligence
+- Python Development
+- SQL & Database Management
+
+🏆 **GATE-DA 2026 Qualified**
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohammad-rameeez-258543324" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/mdrameez143" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:mdrameez7245@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 Next Generation Learning Portal
+- PHP, MySQL, HTML, CSS, JavaScript
+- Online learning platform with video modules and bookmarking.
+
+### 🔐 Secure Login & Profile Management
+- Python, SQL, Cryptography
+- Password hashing, RBAC, CSRF protection and brute-force prevention.
+
+### 📈 Sales Dashboard using Power BI
+- Power BI, DAX
+- Interactive business dashboard for sales and profit analysis.
+
+---
+
+# 🏆 Achievements
+
+🏅 GATE-DA 2026 Qualified
+
+🏅 Data Analytics Training – PILABS Commons Research Foundation
+
+🏅 Data Science Training – United Way of Hyderabad (Wells Fargo Support)
+
+🏅 Python Full-Stack Training – QSpiders
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mdrameez143&theme=tokyonight&show_icons=true&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdrameez143&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrameez143&layout=compact&theme=tokyonight)
+
+---
+
+## 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mdrameez143&theme=onedark&margin-w=15&margin-h=15)
+
+---
+
+## ✨ Quote
+
+> "Transforming data into meaningful insights, one project at a time."
+
